@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of import-ai/flarum-oauth-passport.** Not for installation: use [Packagist](https://packagist.org/packages/import-ai/flarum-oauth-passport) or the [upstream repository](https://github.com/import-ai/flarum-oauth-passport).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/import-ai-flarum-oauth-passport/tree/archive/v0.1.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/import-ai-flarum-oauth-passport/tree/archive/v0.1.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-02-03 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-oauth-passport/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-02-04 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-oauth-passport/tree/archive/v0.1.1) |
+| `v0.1.2` | 2026-02-28 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-oauth-passport/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/import-ai-flarum-oauth-passport.json](https://github.com/flarchive/archive-index/blob/main/packages/import-ai-flarum-oauth-passport.json)
 
